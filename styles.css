@@ -1,15 +1,11 @@
 
 /* Your CSS Code here. */
-.box{
-	margin:20px;
-	background-color:lightblue;
-	border:15px solid blue;
-	display:inline-block;
-	
+.box {
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+  background-color: lightblue;
+  border: 15px solid blue;
+  box-sizing: border-box;
 }
-.text{
 
-	width:300px;
-	padding:50px;
-	border:2px solid black;
-}
